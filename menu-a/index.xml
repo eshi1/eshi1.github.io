@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Menu-as on Human Pangenomes</title>
+    <link>/menu-a/</link>
+    <description>Recent content in Menu-as on Human Pangenomes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/menu-a/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>/commitments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/commitments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/partners/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/partners/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/rsr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/rsr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

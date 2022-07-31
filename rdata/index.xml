@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Rdata on Human Pangenomes</title>
+    <link>/rdata/</link>
+    <description>Recent content in Rdata on Human Pangenomes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/rdata/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>/datause/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/datause/</guid>
+      <description>April 7, 2020
+HPRC goals are to develop resources for the human pangenome. These resources will include high-quality reference genomes, a pangenome tool ecosystem along with annotation of the pangenome reference. Investigators accessing the HPRC data for their research are encouraged to collaborate with the HPRC consortium whenever possible. Please visit the HPRC web site for additional information.
+Specific resource sharing plans are maintained by funded investigators of the HPRC and those plans follow the guidelines found at the following link: https://www.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/hg002/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/hg002/</guid>
+      <description>The Human Pangenome Reference Consortium asked the scientific community to submit assemblies for the HG002 assembly comparision project.
+Background: The Human Reference Pangenome Consortium has organized a collection of HG002 (NA24385) data to guide the development of new assembly and evaluation strategies for our reference production efforts.
+We accepted assembly submissions for evaluation until March 16, 2020.
+Details below. Please contact Karen Miga (khmiga@soe.ucsc.edu) and Erich Jarvis (ejarvis@rockefeller.edu) for details about submitted assemblies.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/pubprotocol/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pubprotocol/</guid>
+      <description>April 7, 2020
+The goal of the HPRC publication policy is to encourage collaboration and coordination among investigators while ensuring the timely release of research to the scientific community. The document provides general guidelines and a description of the process for disclosure of planned publications within the consortium through submission. This policy will be drafted and updated by the HPRC Administration and Coordination Working Group and approved by the HPRC steering committee.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/year1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/year1/</guid>
+      <description>Human Pangenome Reference Consortium Announced Global Release of Year 1 Sequencing Data Researchers from the Human Pangenome Reference Consortium announce the open access publication of Year 1 Sequencing data from 30 samples, representing the first major data release from this project. In addition to data produced as part of the HPRC, the release includes data from over 15 additional samples produced outside of the HPRC.
+Sequencing Data Production Centers and Industry partners included the following:</description>
+    </item>
+    
+  </channel>
+</rss>
